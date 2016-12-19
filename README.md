@@ -1,2 +1,1 @@
-# VC-Demo
-It is demo of kurento ios version
+VC Demo Project. ... From Chiamo.
